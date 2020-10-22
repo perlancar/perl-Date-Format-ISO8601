@@ -1,0 +1,34 @@
+0.005   2020-08-21  Released-By: PERLANCAR; Urgency: low
+
+	- No functional changes.
+
+	- [doc] Mention Bencher::Scenario::FormattingISO8601DateTime.
+
+
+0.004   2020-08-21  Released-By: PERLANCAR; Urgency: low
+
+	- No functional changes.
+
+	- [doc] Note about DateTime::Format::ISO8601 v0.12's
+	  format_datetime().
+
+
+0.003   2018-06-24  Released-By: PERLANCAR
+
+	- No functional changes.
+
+	- [internal] Rename internal subroutine.
+
+	- Tweak Abstract.
+
+
+0.002   2018-06-23  Released-By: PERLANCAR
+
+        - No functional changes.
+
+        - [doc] Fix example in Synopsis.
+
+
+0.001   2018-06-23  Released-By: PERLANCAR
+
+        - First release.
